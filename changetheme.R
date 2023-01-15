@@ -6,7 +6,6 @@
 
 
 # uncomment and run if you make changes to the makeitpretty.rstheme file
-
 rstudioapi::applyTheme("Textmate (default)")
 rstudioapi::removeTheme("Make It Pretty")
 
