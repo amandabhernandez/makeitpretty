@@ -121,12 +121,14 @@
 .ace_indent-guide {
   background: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAACCAYAAACZgbYnAAAAE0lEQVQImWP4////f4bLly//BwAmVgd1/w11/gAAAABJRU5ErkJggg==") right repeat-y;
 }
+
 .GND-IWGDJXC{
   background-color: #ffe0e8;
 }
 .GND-IWGDKAC {
   background-color: #8B475D;
 }
+
 .nocolor.ace_editor .ace_line span {
   color: blue !important;
 }
@@ -138,7 +140,7 @@
 .ace_marker-layer .ace_foreign_line {
   position: absolute;
   z-index: -1;
-  background-color: #F3F3F3;
+  background-color: #ebdaeb;
 }
 .ace_node-selector {
   background-color: rgb(102, 155, 243)
@@ -731,23 +733,23 @@
 /* ---- RStudio Theme ---- */
 /* background */
 .rstudio-themes-flat .rstudio-themes-default {
-  background: #f7f3f7 !important;
+  background: #f5e6f5 !important;
   color: #1b181b !important;
   /* collapsed toolbar on rstudio server */
 }
 
 .rstudio-themes-flat .rstudio-themes-default .rstudio-themes-background {
-  background: #f7f3f7 !important;
+  background: #f5e6f5 !important;
 }
 
 .rstudio-themes-flat .rstudio-themes-default [role="banner"] + [role="navigation"] > table > tbody > tr > td,
 .rstudio-themes-flat .rstudio-themes-default header + [role="navigation"] > table > tbody > tr > td {
-  background: #f7f3f7;
-  border-color: #f7f3f7;
+  background: #f5e6f5;
+  border-color: #f5e6f5;
 }
 
 .rstudio-themes-flat .rstudio-themes-default .rstudio-themes-border {
-  border-color: #f7f3f7;
+  border-color: #f5e6f5;
 }
 
 /* inactive tabs */
