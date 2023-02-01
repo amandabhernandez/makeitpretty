@@ -6,7 +6,7 @@
 }
 .ace_print-margin {
   width: 1px;
-  background: #e8e8e8;
+  background: #d4d4d4;
 }
 .ace_fold {
     background-color: #6B72E6;
